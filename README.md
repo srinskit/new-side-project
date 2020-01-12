@@ -1,1 +1,2 @@
-# new-side-project
+# PR your project ideas ;)
+![](flowchart.jpeg)
